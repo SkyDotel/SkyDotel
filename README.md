@@ -1,4 +1,4 @@
-Hello, my name is Sky Dotel.
+Hello, my name is Sky Dotel. I am a college graduate.
 
 I am interested in both front-end and back-end web technologies.
 
